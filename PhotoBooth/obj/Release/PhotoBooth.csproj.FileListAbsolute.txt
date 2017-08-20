@@ -1,0 +1,15 @@
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Release\PhotoBooth.exe.config
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Release\PhotoBooth.MainWindow.resources
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Release\PhotoBooth.Properties.Resources.resources
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Release\PhotoBooth.SettingsDialog.resources
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Release\PhotoBooth.SlideshowWindow.resources
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Release\PhotoBooth.csproj.GenerateResource.Cache
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Release\PhotoBooth.exe
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Release\PhotoBooth.pdb
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Release\WPD.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Release\Interop.PortableDeviceApiLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Release\Interop.PortableDeviceTypesLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Release\WPD.pdb
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Release\PhotoBooth.csprojResolveAssemblyReference.cache
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Release\PhotoBooth.exe
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Release\PhotoBooth.pdb

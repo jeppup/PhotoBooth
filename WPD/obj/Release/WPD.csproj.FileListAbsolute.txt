@@ -1,0 +1,9 @@
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Release\Interop.PortableDeviceApiLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Release\Interop.PortableDeviceTypesLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Release\WPD.csproj.ResolveComReference.cache
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\bin\Release\WPD.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\bin\Release\WPD.pdb
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\bin\Release\Interop.PortableDeviceApiLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\bin\Release\Interop.PortableDeviceTypesLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Release\WPD.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Release\WPD.pdb

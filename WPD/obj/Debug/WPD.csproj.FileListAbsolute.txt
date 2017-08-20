@@ -1,0 +1,10 @@
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\bin\Debug\WPD.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\bin\Debug\WPD.pdb
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\bin\Debug\Interop.PortableDeviceApiLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\bin\Debug\Interop.PortableDeviceTypesLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Debug\WPD.csprojResolveAssemblyReference.cache
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Debug\Interop.PortableDeviceApiLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Debug\Interop.PortableDeviceTypesLib.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Debug\WPD.csproj.ResolveComReference.cache
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Debug\WPD.dll
+c:\users\jesper\documents\visual studio 2013\Projects\PhotoBooth\WPD\obj\Debug\WPD.pdb
